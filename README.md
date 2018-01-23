@@ -1,1 +1,3 @@
-# civic-bookshelf
+# Civic Bookshelf
+
+A Jekyll Project.
