@@ -8,7 +8,7 @@ description: >
 baseurl: ""
 url: "https://carlvlewis.github.io/civic-bookshelf"
 
-Collections
+
 collections:
   books:
     output: true
